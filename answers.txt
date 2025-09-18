@@ -63,3 +63,28 @@ Demonstrate the completed work and receive feedback from the stakeholders
 
 Discuss what went well within this sprint and what could be improved
 
+
+d)
+
+Epic: 
+
+Large amount of work that can be broken down into smaller stories or tasks
+
+
+
+Story:
+
+A small specific piece of work that delivers great value to the user
+
+
+
+Bug:
+
+A problem or error in the product that needs to be fixed
+
+
+
+Task:
+
+Work that needs to be finished but may not deliver user value (aka more technical)
+
