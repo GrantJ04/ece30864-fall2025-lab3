@@ -23,3 +23,20 @@ Does not allow for ease of feedback from the customer during development
 
 Delays testing until the end of the project
 
+b)
+Scrum master:
+
+Facilitator for the Scrum team
+
+Focused on making sure the team works effectively, and the scrum framework is maintained
+
+Guides the team through agile scrum practices
+
+Product Owner:
+
+Voice of the customer and decides what is to be built
+
+Focuses on maximizing the value of the product being built
+
+Owns and manages the product backlog
+
