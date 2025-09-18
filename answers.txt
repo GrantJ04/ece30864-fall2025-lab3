@@ -40,3 +40,26 @@ Focuses on maximizing the value of the product being built
 
 Owns and manages the product backlog
 
+c)
+Types of meetings:
+
+Sprint planning
+
+Product owner presents the items with highest priority from the backlog
+
+Development team discusses how much work can be accomplished during this sprint
+
+
+Daily Scrum
+
+Discuss what each team member has accomplished since the last daily scrum
+
+What each team member plans to work on next and any complications they might encounter with that
+
+
+Sprint Review and Retrospective
+
+Demonstrate the completed work and receive feedback from the stakeholders
+
+Discuss what went well within this sprint and what could be improved
+
