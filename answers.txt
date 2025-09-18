@@ -1,0 +1,25 @@
+a)
+Pros of Agile: 
+
+Provides user with short cycles so they can adapt quickly to new changes
+
+Can receive feedback from stakeholders so the product better meets the customers' needs
+
+Cons of Agile:
+
+Can make it difficult to plan far in advance
+
+Agile can speed over detailed records
+
+Pros of Non Agile:
+
+Provides the user/developer with a fixed plan
+
+Allows for the use/creation of detailed documentation
+
+Cons of Non Agile:
+
+Does not allow for ease of feedback from the customer during development
+
+Delays testing until the end of the project
+
